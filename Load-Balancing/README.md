@@ -1,6 +1,3 @@
-Here is the text formatted in Markdown:  
-
-```markdown
 # Load Balancer Types
 
 ## 1. Hardware Load Balancing
@@ -178,4 +175,3 @@ Implementing effective health checks for backend servers is essential to ensure 
 
 **Remedy:**  
 Implement comprehensive and regular health checks for backend servers, and use real-time monitoring tools to ensure traffic is always directed to healthy instances.
-```
